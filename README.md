@@ -10,12 +10,40 @@ I am looking for the next opportunity to apply my expertise in distributed syste
 
 ## 🛠 Tech Stack & Expertise
 
-**Languages:** Go (Golang), C++, TypeScript, Python
-**Frontend:** Next.js, React, Tailwind CSS
-**Backend & Architecture:** Hexagonal Architecture, REST APIs, Microservices
-**Cloud & DevOps:** AWS (VPC, ECS, ECR, CloudFront, EC2, Lambda, S3, IAM, ELB), Docker, CI/CD pipelines, NGINX
-**Data & AI:** DynamoDB, SQL, AI Integration, Prompt Engineering
+### 💬 Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### ⚙️ Backend & Architecture
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%2362B3B3?style=for-the-badge&logo=api&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%2301579B?style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-%23512BD4?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%238B0000?style=for-the-badge&logo=github-actions&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 💾 Databases & AI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%234053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML%20Integration-%2300B4D8?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-%23FF6B6B?style=for-the-badge)
 ### 💼 What I Do:
 
 💡 Architect scalable backend systems and microservices
