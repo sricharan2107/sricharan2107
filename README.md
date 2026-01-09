@@ -24,8 +24,8 @@ I am looking for the next opportunity to apply my expertise in distributed syste
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ Backend & Architecture
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go Gin](https://img.shields.io/badge/Go%20Gin-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%2362B3B3?style=for-the-badge&logo=api&logoColor=white)
