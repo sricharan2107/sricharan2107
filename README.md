@@ -40,10 +40,10 @@ I am looking for the next opportunity to apply my expertise in distributed syste
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 💾 Databases & AI
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-%234053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML%20Integration-%2300B4D8?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-%23FF6B6B?style=for-the-badge)
 ### 💼 What I Do:
 
